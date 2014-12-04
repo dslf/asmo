@@ -1,0 +1,5 @@
+D_MAIN equ 1000
+B_CAN equ 2
+B_OK equ 1
+EDIT_1 equ 1001
+EDIT_2 equ 1002

@@ -1,0 +1,7 @@
+  dialog dialog0,"FBASE",0,0,178,48,0x10c80800,0x00000000,,"MS Sans Serif",8
+    dialogitem "Edit","",EDIT_1,7,8,108,13,0x50010080,0x00000200
+    dialogitem "Edit","",EDIT_2,7,28,108,13,0x50010080,0x00000200
+    dialogitem "Button","Cancel",B_CAN,122,27,49,15,0x50010000,0x00000000
+    dialogitem "Button","OK",B_OK,122,7,49,15,0x50010001,0x00000000
+  enddialog
+

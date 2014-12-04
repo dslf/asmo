@@ -1,0 +1,1 @@
+This is a simple template to build an addin for WinAsm Studio in FASM 
